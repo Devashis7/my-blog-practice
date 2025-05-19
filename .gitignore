@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+dist/
+*.class
+*.o
+*.exe
+
+# Dependency folders (if using Node or Python)
+node_modules/
+__pycache__/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
